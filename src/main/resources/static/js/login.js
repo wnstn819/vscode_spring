@@ -21,6 +21,7 @@ document
       if (response.ok) {
         document.getElementById("responseMessage").style.color = "green";
         document.getElementById("responseMessage").innerText = "로그인 성공!";
+        document.
       } else {
         document.getElementById("responseMessage").style.color = "red";
         document.getElementById("responseMessage").innerText =
